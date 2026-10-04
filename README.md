@@ -4,14 +4,14 @@
 **Faculty** Rohit Kumar
 **Department:** School of Future Technology, Jain University
 ## Progress
-| No. | Projects |
-|-----|-------|
-| 01 | Student information |
-| 02 | Two number output |
-| 03 | Simple Calculator |
-| 04 | Grade Calculator |
-| 05 | Ticket Eligibility |
-| 06 | Simple calculator using switch |
-| 07 | Print 1-10 using for loop |
-| 08 | Print 1-10 using while loop |
-| 09 | Print 1-10 using do while loop |
+| No. | Projects | Status |
+|-----|-------|--------|
+| 01 | Student information || Done |
+| 02 | Two number output || Done |
+| 03 | Simple Calculator || Done |
+| 04 | Grade Calculator || Done |
+| 05 | Ticket Eligibility || Done |
+| 06 | Simple calculator using switch | Done |
+| 07 | Print 1-10 using for loop || Done |
+| 08 | Print 1-10 using while loop || Done |
+| 09 | Print 1-10 using do while loop || Done |
