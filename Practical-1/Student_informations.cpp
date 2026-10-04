@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main(){
+
 
     string name;
     int age;
@@ -15,12 +15,10 @@ int main()
     cout <<"Enter your marks: ";
     cin >> marks;
 
-
     cout <<"Name: " << name << endl;
     cout << "Age: " << age << endl;
     cout <<"Mark: " << marks << endl;
     cout << "Percentage: " << marks / 5.0 << " %";
-
 
     return 0;
 }
